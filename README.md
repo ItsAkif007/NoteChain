@@ -138,6 +138,4 @@ See the [LICENSE](LICENSE) file for more details.
 
 ✨ *Created by (Your Name)* — Bringing decentralized simplicity to everyday tasks.
 ```
-***
 
-Would you like me to add a brief “Getting Started (Frontend Integration)” section for React or Next.js users?
