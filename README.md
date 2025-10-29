@@ -6,6 +6,9 @@ Built for learners and developers who want to understand how decentralized data 
 
 ---
 
+<img width="1531" height="722" alt="image" src="https://github.com/user-attachments/assets/bc160bdd-9871-40f1-ae12-73dbe6a062f6" />
+
+
 ## 🚀 Project Description
 
 **NoteChain** is a decentralized note-keeping system that demonstrates how to store data permanently on-chain using Solidity.  
@@ -42,8 +45,6 @@ It’s a great starting point for beginners in **Web3** and **Ethereum-compatibl
 **Network:** [Celo Sepolia Testnet](https://celo-sepolia.blockscout.com/)  
 **Deployment Transaction:**  
 [https://celo-sepolia.blockscout.com/address/0x7eb307d1AFaDe23845de764ADe6b063b3aDd26B9](https://celo-sepolia.blockscout.com/address/0x7eb307d1AFaDe23845de764ADe6b063b3aDd26B9)
-
-<img width="1531" height="722" alt="image" src="https://github.com/user-attachments/assets/2a340797-77b2-48df-b0ad-0d3a4da1f2ec" />
 
 
 **Contract Address:** `XXX`  
